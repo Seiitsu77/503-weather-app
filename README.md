@@ -20,7 +20,7 @@ A simple weather application built with Python. The app asks the users to type a
 1. Clone this repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Seiitsu77/503-weather-app.git
 cd week5-day1-challenge
 ```
 
