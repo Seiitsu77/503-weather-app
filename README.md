@@ -10,7 +10,7 @@ A simple weather application built with Python. The app asks the users to type a
 
 ## Requirements
 
-* Python 3.10
+* Python 3.10.0
 * `requests`
 * `python-dotenv`
 * An OpenWeather API key
