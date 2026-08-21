@@ -21,7 +21,7 @@ A simple weather application built with Python. The app asks the users to type a
 
 ```bash
 git clone https://github.com/Seiitsu77/503-weather-app.git
-cd week5-day1-challenge
+cd 503-weather-app
 ```
 
 2. Install the required packages:
